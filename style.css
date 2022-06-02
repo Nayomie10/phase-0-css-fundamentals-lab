@@ -13,7 +13,7 @@ body {
   padding-left: 10px;
   padding-right: 10px;
 }
-.nav li a{
+.nav a{
   background-color: gray;
 }
 
@@ -39,4 +39,6 @@ div{
   width: 25%;
   background-color: red;
   text-align: center;
+
+  
 }
